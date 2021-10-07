@@ -1,0 +1,2403 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.19f1 (68f137dc9bbe) revision 6877495'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home Single Language; OS build 19042.1237; Version 2009; 64bit' Language: 'en' Physical Memory: 6058 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.19f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/ganesh/Desktop/Snehasree/UNITY PROJECT/Old Sea Port
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+59095
+Successfully changed project path to: C:/Users/ganesh/Desktop/Snehasree/UNITY PROJECT/Old Sea Port
+C:/Users/ganesh/Desktop/Snehasree/UNITY PROJECT/Old Sea Port
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 114.75 ms, found 6 plugins.
+Preloading 1 native plugins for Editor in 1.36 ms.
+Initialize engine version: 2020.3.19f1 (68f137dc9bbe)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.19f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/ganesh/Desktop/Snehasree/UNITY PROJECT/Old Sea Port/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon(TM) Vega 8 Graphics (ID=0x15d8)
+    Vendor:   
+    VRAM:     3029 MB
+    Driver:   27.20.15030.3002
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.19f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.19f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.19f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56292
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.19f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.005495 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 91.73 ms, found 6 plugins.
+Preloading 1 native plugins for Editor in 0.11 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.639 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3640ms)
+		BeginReloadAssembly (127ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (712ms)
+			LoadAssemblies (121ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (240ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (45ms)
+			SetupLoadedEditorAssemblies (300ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (92ms)
+				BeforeProcessingInitializeOnLoad (25ms)
+				ProcessInitializeOnLoadAttributes (129ms)
+				ProcessInitializeOnLoadMethodAttributes (47ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.012217 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.94 ms, found 6 plugins.
+Preloading 1 native plugins for Editor in 0.22 ms.
+[XR] OculusXRPlugin: registering subsystems
+[XR] Unable to register display lifecyle provider: [1]
+[XR] Oculus Input lifecycle provider registered.
+[XR] Unable to register input lifecyle provider: [1]
+[XR] OVRP version 1.65.0
+Mono: successfully reloaded assembly
+- Completed reload, in  1.742 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1744ms)
+		BeginReloadAssembly (222ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (7ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (27ms)
+		EndReloadAssembly (1417ms)
+			LoadAssemblies (163ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (442ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (72ms)
+			SetupLoadedEditorAssemblies (566ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (8ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (133ms)
+				ProcessInitializeOnLoadAttributes (388ms)
+				ProcessInitializeOnLoadMethodAttributes (18ms)
+				AfterProcessingInitializeOnLoad (16ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (12ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.08 seconds
+Refreshing native plugins compatible for Editor in 0.98 ms, found 6 plugins.
+Preloading 1 native plugins for Editor in 0.17 ms.
+Unloading 2098 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 101.2 MB.
+System memory in use after: 101.2 MB.
+
+Unloading 42 unused Assets to reduce memory usage. Loaded Objects now: 2514.
+Total: 6.025200 ms (FindLiveObjects: 0.353700 ms CreateObjectMapping: 0.115900 ms MarkObjects: 5.410100 ms  DeleteObjects: 0.143000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Old Sea Port/textures
+  artifactKey: Guid(8e2b73dbce04ae94fa8bdab263f278a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/textures using Guid(8e2b73dbce04ae94fa8bdab263f278a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e952607a2aac148746516aac9f349489') in 0.018066 seconds 
+  Import took 0.022902 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/Old Sea Port/scenes
+  artifactKey: Guid(f089578880e3cac4684a3bfbdf27164f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/scenes using Guid(f089578880e3cac4684a3bfbdf27164f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43aa8900392a987f5c818f39e2b81a44') in 0.013475 seconds 
+  Import took 0.018270 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.525459 seconds.
+  path: Assets/Old Sea Port/scenes/Dock Thing_Profiles
+  artifactKey: Guid(dcc93437a92918c46a2e927c5749223c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/scenes/Dock Thing_Profiles using Guid(dcc93437a92918c46a2e927c5749223c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '564660987c4847685c16318357f5a130') in 0.014925 seconds 
+  Import took 0.020271 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.656064 seconds.
+  path: Assets/Old Sea Port/scenes/Dock Thing.unity
+  artifactKey: Guid(f4fc660ad7cf6eb4eb8cd6d109f7608e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/scenes/Dock Thing.unity using Guid(f4fc660ad7cf6eb4eb8cd6d109f7608e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e13aa9aff2f2ad894be0eb05b645e3b8') in 0.047353 seconds 
+  Import took 0.072391 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 80.616473 seconds.
+  path: Assets/Old Sea Port/EffectExamples/FireExplosionEffects/Materials/FlameRoundYellowParticle.mat
+  artifactKey: Guid(d7f098ed9997e714193be5e86df013f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/EffectExamples/FireExplosionEffects/Materials/FlameRoundYellowParticle.mat using Guid(d7f098ed9997e714193be5e86df013f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d97281febf760540fc327942a07d1b4') in 0.225890 seconds 
+  Import took 0.231656 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.025719 seconds.
+  path: Assets/Old Sea Port/EffectExamples/FireExplosionEffects/Materials/EmbersParticle.mat
+  artifactKey: Guid(776677ab3818fb249adaca05f4e04545) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/EffectExamples/FireExplosionEffects/Materials/EmbersParticle.mat using Guid(776677ab3818fb249adaca05f4e04545) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '879d17eac1f7cb0c4606d6f121e003de') in 0.038982 seconds 
+  Import took 0.043612 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 37.886388 seconds.
+  path: Assets/Oculus/SampleFramework/Core
+  artifactKey: Guid(a6f70e53f5bf3f548b587fd2570d8f03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/SampleFramework/Core using Guid(a6f70e53f5bf3f548b587fd2570d8f03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe7e79aff9d4235e94ce67b0c9643b01') in 0.014764 seconds 
+  Import took 0.020889 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.873460 seconds.
+  path: Assets/Oculus/SampleFramework/Core/CustomHands
+  artifactKey: Guid(a8bb45e7ef4481e4db0a4da3bf699032) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/SampleFramework/Core/CustomHands using Guid(a8bb45e7ef4481e4db0a4da3bf699032) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f19f15cfbdb76b695ef6f807c01f9155') in 0.015530 seconds 
+  Import took 0.021695 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.565457 seconds.
+  path: Assets/Oculus/SampleFramework/Core/CustomHands/Textures
+  artifactKey: Guid(133d583499b8d418287259f77f7c90ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/SampleFramework/Core/CustomHands/Textures using Guid(133d583499b8d418287259f77f7c90ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d0388aeb2f3f8c1007fc572c795c0c4') in 0.017309 seconds 
+  Import took 0.022924 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.058965 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.96 ms, found 6 plugins.
+Preloading 1 native plugins for Editor in 0.29 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.472 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3487ms)
+		BeginReloadAssembly (1251ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (348ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (479ms)
+		EndReloadAssembly (2094ms)
+			LoadAssemblies (546ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (587ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (61ms)
+			SetupLoadedEditorAssemblies (671ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (8ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (142ms)
+				ProcessInitializeOnLoadAttributes (490ms)
+				ProcessInitializeOnLoadMethodAttributes (12ms)
+				AfterProcessingInitializeOnLoad (14ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (10ms)
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524294) extendedPlatform(0)
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 1.36 ms, found 6 plugins.
+Preloading 1 native plugins for Editor in 0.24 ms.
+Unloading 2031 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 98.4 MB.
+System memory in use after: 98.5 MB.
+
+Unloading 38 unused Assets to reduce memory usage. Loaded Objects now: 2558.
+Total: 17.038700 ms (FindLiveObjects: 0.329800 ms CreateObjectMapping: 0.107000 ms MarkObjects: 16.423500 ms  DeleteObjects: 0.175400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 42.64 ms, found 6 plugins.
+Preloading 1 native plugins for Editor in 0.21 ms.
+Unloading 34 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 58.2 MB.
+System memory in use after: 58.3 MB.
+
+Unloading 34 unused Assets to reduce memory usage. Loaded Objects now: 2558.
+Total: 7.319500 ms (FindLiveObjects: 0.668200 ms CreateObjectMapping: 0.219700 ms MarkObjects: 6.388800 ms  DeleteObjects: 0.041200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 28.85 ms, found 6 plugins.
+Preloading 1 native plugins for Editor in 0.10 ms.
+Unloading 34 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 58.2 MB.
+System memory in use after: 58.3 MB.
+
+Unloading 34 unused Assets to reduce memory usage. Loaded Objects now: 2558.
+Total: 9.427300 ms (FindLiveObjects: 0.315600 ms CreateObjectMapping: 0.093100 ms MarkObjects: 8.956900 ms  DeleteObjects: 0.059700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.319479 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 16.92 ms, found 6 plugins.
+Preloading 1 native plugins for Editor in 0.56 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.840 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3903ms)
+		BeginReloadAssembly (1102ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (181ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (41ms)
+			CreateAndSetChildDomain (485ms)
+		EndReloadAssembly (2587ms)
+			LoadAssemblies (385ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (702ms)
+			ReleaseScriptCaches (35ms)
+			RebuildScriptCaches (98ms)
+			SetupLoadedEditorAssemblies (838ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (7ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (18ms)
+				BeforeProcessingInitializeOnLoad (165ms)
+				ProcessInitializeOnLoadAttributes (623ms)
+				ProcessInitializeOnLoadMethodAttributes (10ms)
+				AfterProcessingInitializeOnLoad (13ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (13ms)
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524294) extendedPlatform(0)
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 1.96 ms, found 6 plugins.
+Preloading 1 native plugins for Editor in 0.37 ms.
+Unloading 2031 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 98.4 MB.
+System memory in use after: 98.5 MB.
+
+Unloading 37 unused Assets to reduce memory usage. Loaded Objects now: 2561.
+Total: 32.682600 ms (FindLiveObjects: 0.752300 ms CreateObjectMapping: 0.171600 ms MarkObjects: 31.321800 ms  DeleteObjects: 0.428600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.032155 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.07 ms, found 6 plugins.
+Preloading 1 native plugins for Editor in 0.19 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.509 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2511ms)
+		BeginReloadAssembly (548ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (10ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (355ms)
+		EndReloadAssembly (1807ms)
+			LoadAssemblies (262ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (603ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (60ms)
+			SetupLoadedEditorAssemblies (593ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (9ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (123ms)
+				ProcessInitializeOnLoadAttributes (432ms)
+				ProcessInitializeOnLoadMethodAttributes (12ms)
+				AfterProcessingInitializeOnLoad (15ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (11ms)
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524294) extendedPlatform(0)
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 1.17 ms, found 6 plugins.
+Preloading 1 native plugins for Editor in 0.24 ms.
+Unloading 2031 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 98.4 MB.
+System memory in use after: 98.5 MB.
+
+Unloading 37 unused Assets to reduce memory usage. Loaded Objects now: 2564.
+Total: 5.231200 ms (FindLiveObjects: 0.352100 ms CreateObjectMapping: 0.079700 ms MarkObjects: 4.758000 ms  DeleteObjects: 0.038800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.026695 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.99 ms, found 6 plugins.
+Preloading 1 native plugins for Editor in 0.17 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.949 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1950ms)
+		BeginReloadAssembly (212ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (94ms)
+		EndReloadAssembly (1641ms)
+			LoadAssemblies (145ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (576ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (48ms)
+			SetupLoadedEditorAssemblies (502ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (124ms)
+				ProcessInitializeOnLoadAttributes (346ms)
+				ProcessInitializeOnLoadMethodAttributes (10ms)
+				AfterProcessingInitializeOnLoad (13ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (12ms)
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524294) extendedPlatform(0)
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 0.97 ms, found 6 plugins.
+Preloading 1 native plugins for Editor in 0.14 ms.
+Unloading 2031 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 98.4 MB.
+System memory in use after: 98.5 MB.
+
+Unloading 37 unused Assets to reduce memory usage. Loaded Objects now: 2567.
+Total: 8.341300 ms (FindLiveObjects: 0.470000 ms CreateObjectMapping: 0.104400 ms MarkObjects: 7.696900 ms  DeleteObjects: 0.067100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 5971.124531 seconds.
+  path: Assets/Oculus/SampleFramework/Core/Locomotion/Scripts/TeleportAimVisualLaser.cs
+  artifactKey: Guid(aa8ac578d8d4eff4eae43b9c3eb1529c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/SampleFramework/Core/Locomotion/Scripts/TeleportAimVisualLaser.cs using Guid(aa8ac578d8d4eff4eae43b9c3eb1529c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11540b6308ad61bdfb5659237195cc08') in 0.269562 seconds 
+  Import took 0.292730 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 3.176358 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 117.89 ms, found 6 plugins.
+Preloading 1 native plugins for Editor in 0.12 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.119 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2120ms)
+		BeginReloadAssembly (208ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (6ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (86ms)
+		EndReloadAssembly (1792ms)
+			LoadAssemblies (182ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (556ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (66ms)
+			SetupLoadedEditorAssemblies (678ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (118ms)
+				BeforeProcessingInitializeOnLoad (136ms)
+				ProcessInitializeOnLoadAttributes (390ms)
+				ProcessInitializeOnLoadMethodAttributes (10ms)
+				AfterProcessingInitializeOnLoad (17ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (11ms)
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524294) extendedPlatform(0)
+Shader 'Universal Render Pipeline/Nature/SpeedTree7': dependency 'BillboardShader' shader 'Universal Render Pipeline/Nature/SpeedTree7 Billboard' not found
+Shader 'Universal Render Pipeline/Baked Lit': fallback shader 'Universal Render Pipeline/Unlit' not found
+Shader 'Universal Render Pipeline/Simple Lit': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Universal Render Pipeline/Terrain/Lit': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Universal Render Pipeline/Terrain/Lit': dependency 'AddPassShader' shader 'Hidden/Universal Render Pipeline/Terrain/Lit (Add Pass)' not found
+Shader 'Universal Render Pipeline/Terrain/Lit': dependency 'BaseMapShader' shader 'Hidden/Universal Render Pipeline/Terrain/Lit (Base Pass)' not found
+Shader 'Universal Render Pipeline/Terrain/Lit': dependency 'BaseMapGenShader' shader 'Hidden/Universal Render Pipeline/Terrain/Lit (Basemap Gen)' not found
+Shader 'Hidden/Universal Render Pipeline/Terrain/Lit (Add Pass)': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Hidden/Universal Render Pipeline/Terrain/Lit (Base Pass)': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 1.23 ms, found 6 plugins.
+Preloading 1 native plugins for Editor in 0.16 ms.
+Unloading 3288 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 150.4 MB.
+System memory in use after: 146.0 MB.
+
+Unloading 94 unused Assets to reduce memory usage. Loaded Objects now: 3770.
+Total: 9.935200 ms (FindLiveObjects: 0.460200 ms CreateObjectMapping: 0.126300 ms MarkObjects: 5.871900 ms  DeleteObjects: 3.473300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 479.214749 seconds.
+  path: Assets/Oculus/SampleFramework/Core/Locomotion/Scripts/TeleportInputHandlerHMD.cs
+  artifactKey: Guid(810484434e07d83468e261ce07d92106) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/SampleFramework/Core/Locomotion/Scripts/TeleportInputHandlerHMD.cs using Guid(810484434e07d83468e261ce07d92106) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfcd5bd0a4aef55bb577f80949d54f15') in 0.027157 seconds 
+  Import took 0.038253 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.459397 seconds.
+  path: Assets/Oculus/SampleFramework/Core/Locomotion/Scripts/TeleportAimHandlerParabolic.cs
+  artifactKey: Guid(f2207d0346672d340874d20d6a45eb69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/SampleFramework/Core/Locomotion/Scripts/TeleportAimHandlerParabolic.cs using Guid(f2207d0346672d340874d20d6a45eb69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00cd9e567b750b0b4f01aa7bf724a02c') in 0.017423 seconds 
+  Import took 0.026338 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 209.466667 seconds.
+  path: Assets/TeleportDestination.prefab
+  artifactKey: Guid(069534826d5e6d048bb31af8b6ef108b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TeleportDestination.prefab using Guid(069534826d5e6d048bb31af8b6ef108b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20b86d466e88a766a5069e122b6abad2') in 1.406256 seconds 
+  Import took 1.414123 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.671878 seconds.
+  path: Assets/TeleportDestinationnew.prefab
+  artifactKey: Guid(069534826d5e6d048bb31af8b6ef108b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TeleportDestinationnew.prefab using Guid(069534826d5e6d048bb31af8b6ef108b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '653a4cacc952222a6396f4460dbb8169') in 0.036645 seconds 
+  Import took 0.045368 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.291589 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(a77ff3d099f553549b2dac31cd7ac3d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(a77ff3d099f553549b2dac31cd7ac3d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3739215a85bdb792b5944a8e05375925') in 0.019593 seconds 
+  Import took 0.029769 seconds .
+
+========================================================================
+Received Prepare
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 24.62 ms, found 6 plugins.
+Preloading 1 native plugins for Editor in 0.13 ms.
+Unloading 91 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.8 MB.
+System memory in use after: 82.5 MB.
+
+Unloading 91 unused Assets to reduce memory usage. Loaded Objects now: 3771.
+Total: 8.738300 ms (FindLiveObjects: 0.424000 ms CreateObjectMapping: 0.196700 ms MarkObjects: 5.361100 ms  DeleteObjects: 2.754700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1049.678173 seconds.
+  path: Assets/Resources
+  artifactKey: Guid(6d54911135797964d8248fcb868e1e0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources using Guid(6d54911135797964d8248fcb868e1e0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7f752842dd3f96df4c60d26f01f6c7c') in 0.597104 seconds 
+  Import took 1.728800 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 385.653105 seconds.
+  path: Assets/Oculus
+  artifactKey: Guid(d850edfdececd7f44a1c6863e8a49ecc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus using Guid(d850edfdececd7f44a1c6863e8a49ecc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48bd44e8bd572a89f23cb50ca11f616f') in 0.028371 seconds 
+  Import took 0.082755 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 849.861403 seconds.
+  path: Assets/Old Sea Port/prefabs
+  artifactKey: Guid(38dd436d41f0c70498471565e7694d61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/prefabs using Guid(38dd436d41f0c70498471565e7694d61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18a624897656af3c34f05e8a41882000') in 0.030041 seconds 
+  Import took 0.048887 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.672953 seconds.
+  path: Assets/Old Sea Port/prefabs/barrel.prefab
+  artifactKey: Guid(e5da93bf3ff477c4f8f88f51e419c805) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/prefabs/barrel.prefab using Guid(e5da93bf3ff477c4f8f88f51e419c805) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f8ba8498c349b461b2c1ed9956097b4') in 5.063330 seconds 
+  Import took 5.072973 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000322 seconds.
+  path: Assets/Old Sea Port/prefabs/mooring_rope_holder_3.prefab
+  artifactKey: Guid(b962e54cbd3b92c438734c5811b1ee30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/prefabs/mooring_rope_holder_3.prefab using Guid(b962e54cbd3b92c438734c5811b1ee30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81eadd0f77181ea78e4b0babd132d2a6') in 0.502510 seconds 
+  Import took 0.526315 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000339 seconds.
+  path: Assets/Old Sea Port/prefabs/building_segment_6.prefab
+  artifactKey: Guid(7d609f7b85b8b834c967c9708aa167ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/prefabs/building_segment_6.prefab using Guid(7d609f7b85b8b834c967c9708aa167ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '695fdff0009746c3cc24d3bfe45ec68e') in 1.051967 seconds 
+  Import took 1.059329 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/Old Sea Port/prefabs/post_2.prefab
+  artifactKey: Guid(c8b19df230669df4eb91d90849f0c80a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/prefabs/post_2.prefab using Guid(c8b19df230669df4eb91d90849f0c80a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd11c6d2cdc3a53f036b7db99a69e8e54') in 0.490180 seconds 
+  Import took 0.497884 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/Old Sea Port/prefabs/lamp_1.prefab
+  artifactKey: Guid(2b120c828398db5439578c6f50bef162) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/prefabs/lamp_1.prefab using Guid(2b120c828398db5439578c6f50bef162) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8675c73964cec2e6aa0497502317279e') in 0.103195 seconds 
+  Import took 0.121887 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/Old Sea Port/prefabs/fence_segment_1.prefab
+  artifactKey: Guid(3c72a1ccba595c84daf7def9a8a6fe2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/prefabs/fence_segment_1.prefab using Guid(3c72a1ccba595c84daf7def9a8a6fe2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5839f7cc958d6a08e09fa1d448c6367d') in 0.211800 seconds 
+  Import took 0.218447 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000309 seconds.
+  path: Assets/Old Sea Port/prefabs/stairs_wood_spiral.prefab
+  artifactKey: Guid(8f2ca0f54f293944f98bea8d9cdb2ceb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/prefabs/stairs_wood_spiral.prefab using Guid(8f2ca0f54f293944f98bea8d9cdb2ceb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4ee0b7a923012422334df7a7012d0ab') in 1.152332 seconds 
+  Import took 1.171964 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/Old Sea Port/prefabs/mooring_rope_holder_1.prefab
+  artifactKey: Guid(88b977c6c0cb6f347a2b35f97b16cdc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/prefabs/mooring_rope_holder_1.prefab using Guid(88b977c6c0cb6f347a2b35f97b16cdc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd519d55bddc5d56339c3521a3d46458c') in 0.578600 seconds 
+  Import took 0.595945 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000303 seconds.
+  path: Assets/Old Sea Port/prefabs/workbench.prefab
+  artifactKey: Guid(83d4bbd130e2b724fb288ed061442dfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/prefabs/workbench.prefab using Guid(83d4bbd130e2b724fb288ed061442dfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76f2e505be483439bc125a20b5b914e3') in 0.264082 seconds 
+  Import took 0.274478 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000353 seconds.
+  path: Assets/Old Sea Port/prefabs/brick_wall_1.prefab
+  artifactKey: Guid(ad8fe0235a8670d4c83f451033ac0a20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/prefabs/brick_wall_1.prefab using Guid(ad8fe0235a8670d4c83f451033ac0a20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9deace10a587a649adb71067aefee466') in 0.383950 seconds 
+  Import took 0.394445 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000365 seconds.
+  path: Assets/Old Sea Port/prefabs/brick_column_1.prefab
+  artifactKey: Guid(4154bf6e40fe42543a525d9b4fbc965f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/prefabs/brick_column_1.prefab using Guid(4154bf6e40fe42543a525d9b4fbc965f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b374791ee32b2046aa6aa64bec8cb98') in 0.413458 seconds 
+  Import took 0.421891 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000324 seconds.
+  path: Assets/Old Sea Port/prefabs/tower_extension.prefab
+  artifactKey: Guid(6ced61b88da889a4db169a27d5f9f634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/prefabs/tower_extension.prefab using Guid(6ced61b88da889a4db169a27d5f9f634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6857bf6204f2bbb6713d5604580af1a3') in 0.220987 seconds 
+  Import took 0.230289 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000352 seconds.
+  path: Assets/Old Sea Port/prefabs/building_segment_1.prefab
+  artifactKey: Guid(287711fb95cdc004b814e53a055b4b1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/prefabs/building_segment_1.prefab using Guid(287711fb95cdc004b814e53a055b4b1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd2a0c3592390a9b43c648eaf954fd1f') in 0.276075 seconds 
+  Import took 0.284000 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000429 seconds.
+  path: Assets/Old Sea Port/prefabs/Log_1.prefab
+  artifactKey: Guid(d76a78a721a5d9d499abc8aec19fdc8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/prefabs/Log_1.prefab using Guid(d76a78a721a5d9d499abc8aec19fdc8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ade69e2c8d8a2b63d128fa2a0b28ac8') in 0.983254 seconds 
+  Import took 0.991693 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000285 seconds.
+  path: Assets/Old Sea Port/prefabs/building_segment_3.prefab
+  artifactKey: Guid(dee3db12ee2f57c41af34c16d2fde197) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/prefabs/building_segment_3.prefab using Guid(dee3db12ee2f57c41af34c16d2fde197) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21cf43244c504fd19a6bc73377db3a24') in 0.362030 seconds 
+  Import took 0.369538 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000285 seconds.
+  path: Assets/Old Sea Port/prefabs/building_segment_4.prefab
+  artifactKey: Guid(94de232499f0e2344a01df0f4013ddd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/prefabs/building_segment_4.prefab using Guid(94de232499f0e2344a01df0f4013ddd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4426f3ed7c2505ea8c7da19f4352c053') in 0.250724 seconds 
+  Import took 0.260994 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000340 seconds.
+  path: Assets/Old Sea Port/prefabs/crate_2.prefab
+  artifactKey: Guid(9f35541b213a65340a8e088b7f3ab551) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/prefabs/crate_2.prefab using Guid(9f35541b213a65340a8e088b7f3ab551) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92048242adced1dbb1d8d082a716f41e') in 0.310472 seconds 
+  Import took 0.319636 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000400 seconds.
+  path: Assets/Old Sea Port/prefabs/building_segment_2.prefab
+  artifactKey: Guid(e2815925c4988c3438817c46d19d1b3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/prefabs/building_segment_2.prefab using Guid(e2815925c4988c3438817c46d19d1b3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '463d12e29bae5e824a2f233d3b3bef56') in 0.374620 seconds 
+  Import took 0.422831 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/Old Sea Port/prefabs/crate_1.prefab
+  artifactKey: Guid(55fecf1063fe8474493f4866aaadffbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/prefabs/crate_1.prefab using Guid(55fecf1063fe8474493f4866aaadffbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5a862d6f7be0477ccb398f9e8515e81') in 0.285392 seconds 
+  Import took 0.293654 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000281 seconds.
+  path: Assets/Old Sea Port/prefabs/dock_1.prefab
+  artifactKey: Guid(c8dbbd17831aecb419cf9f688e85e672) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/prefabs/dock_1.prefab using Guid(c8dbbd17831aecb419cf9f688e85e672) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fdc907fdc6c22e8d140346df423de496') in 2.243188 seconds 
+  Import took 2.251283 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000403 seconds.
+  path: Assets/Old Sea Port/prefabs/brick_tree_base.prefab
+  artifactKey: Guid(a5dfe91abe6cf084bb963f174722e6c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/prefabs/brick_tree_base.prefab using Guid(a5dfe91abe6cf084bb963f174722e6c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b7ebde7362644607dca563cfd65eb94') in 0.510377 seconds 
+  Import took 0.549654 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/Old Sea Port/prefabs/fence_segment_2.prefab
+  artifactKey: Guid(b2d53ad90721dcf489a412c5f39415eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/prefabs/fence_segment_2.prefab using Guid(b2d53ad90721dcf489a412c5f39415eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ac7349e3a24aed23818bf4947b1e6cf') in 0.364876 seconds 
+  Import took 0.392113 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000559 seconds.
+  path: Assets/Old Sea Port/prefabs/Rain.prefab
+  artifactKey: Guid(fed5f9582b6829c43a0d1459a97de74d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/prefabs/Rain.prefab using Guid(fed5f9582b6829c43a0d1459a97de74d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5120bf6cb206c5530f940345cfdf19a') in 0.660172 seconds 
+  Import took 0.670377 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000320 seconds.
+  path: Assets/Old Sea Port/prefabs/Wood Canopy.prefab
+  artifactKey: Guid(e1f2b1eef74191d45a6f5a76a5d45556) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/prefabs/Wood Canopy.prefab using Guid(e1f2b1eef74191d45a6f5a76a5d45556) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '256c4d48f4315dbacc5f237813373f6d') in 0.216968 seconds 
+  Import took 0.229551 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000388 seconds.
+  path: Assets/Old Sea Port/prefabs/tower.prefab
+  artifactKey: Guid(cc1d1788a682d5048af84a0fc6178911) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/prefabs/tower.prefab using Guid(cc1d1788a682d5048af84a0fc6178911) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4fdecffba933094e295c04331d1639ec') in 0.252331 seconds 
+  Import took 0.261793 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000391 seconds.
+  path: Assets/Old Sea Port/prefabs/fireplace.prefab
+  artifactKey: Guid(1bf9bc82a9760b2488a711e79d36551e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/prefabs/fireplace.prefab using Guid(1bf9bc82a9760b2488a711e79d36551e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '398aeaa676fe77cc15d3f5b6f7906f6a') in 0.177277 seconds 
+  Import took 0.185280 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000305 seconds.
+  path: Assets/Old Sea Port/prefabs/ladder_1.prefab
+  artifactKey: Guid(c5d5f1d29f2e94e45b0022124ff1f27f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/prefabs/ladder_1.prefab using Guid(c5d5f1d29f2e94e45b0022124ff1f27f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40846da462548d35cc1efdedef106e15') in 0.844180 seconds 
+  Import took 0.852559 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000299 seconds.
+  path: Assets/Old Sea Port/prefabs/Old Sea Port_Tree.prefab
+  artifactKey: Guid(060de24b039008143aa190133e1fb8e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/prefabs/Old Sea Port_Tree.prefab using Guid(060de24b039008143aa190133e1fb8e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '211ac5306956a39d4d3ebf9bc29d6a2b') in 0.351129 seconds 
+  Import took 0.358462 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000297 seconds.
+  path: Assets/Old Sea Port/prefabs/Plank_1.prefab
+  artifactKey: Guid(64438420d273554448959a35c747f25a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/prefabs/Plank_1.prefab using Guid(64438420d273554448959a35c747f25a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65c7066dcbeb69928b2e4994015f24ad') in 0.849211 seconds 
+  Import took 0.856471 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000302 seconds.
+  path: Assets/Old Sea Port/prefabs/boat_2.prefab
+  artifactKey: Guid(827102f6dfdb671428e2504c7680aeea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/prefabs/boat_2.prefab using Guid(827102f6dfdb671428e2504c7680aeea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99d49a7eda2c2849fe7fa04774dabf2c') in 0.542775 seconds 
+  Import took 0.552759 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000323 seconds.
+  path: Assets/Old Sea Port/prefabs/chair.prefab
+  artifactKey: Guid(d08aa3fda32682b48b8dd7795337395a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/prefabs/chair.prefab using Guid(d08aa3fda32682b48b8dd7795337395a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a79d1ed20ca568af5464ab503c3aec01') in 0.369836 seconds 
+  Import took 0.379748 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001187 seconds.
+  path: Assets/Old Sea Port/prefabs/circular_table.prefab
+  artifactKey: Guid(31a710b3bcdfb2e48b5ba67995778c54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/prefabs/circular_table.prefab using Guid(31a710b3bcdfb2e48b5ba67995778c54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f2e11df0248df660f4dd26e9bc7a5ee') in 0.185399 seconds 
+  Import took 0.194423 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/Old Sea Port/prefabs/fence_gate.prefab
+  artifactKey: Guid(5cd829d670d42cf458be57a99ad05bf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/prefabs/fence_gate.prefab using Guid(5cd829d670d42cf458be57a99ad05bf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a164b09aa0c60d1dfef907b89e5f2a74') in 0.078026 seconds 
+  Import took 0.086985 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000437 seconds.
+  path: Assets/Old Sea Port/prefabs/tower_short.prefab
+  artifactKey: Guid(ad9456229c007a24ba9e3d21745ddb59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/prefabs/tower_short.prefab using Guid(ad9456229c007a24ba9e3d21745ddb59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af89d3ed089bb73c786058f1b05a0e71') in 0.232601 seconds 
+  Import took 0.240165 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
+  path: Assets/Old Sea Port/prefabs/bottle.prefab
+  artifactKey: Guid(67833d6ba7c887d48933b3682ee1df40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/prefabs/bottle.prefab using Guid(67833d6ba7c887d48933b3682ee1df40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80ffc833c7b93fc416c34d78d349cf2c') in 0.059230 seconds 
+  Import took 0.066848 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000319 seconds.
+  path: Assets/Old Sea Port/prefabs/hammer.prefab
+  artifactKey: Guid(4c5f317e11e66414bba628410251d90c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/prefabs/hammer.prefab using Guid(4c5f317e11e66414bba628410251d90c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e49897834e36235db68717b3a5b03e2f') in 0.255307 seconds 
+  Import took 0.279818 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000302 seconds.
+  path: Assets/Old Sea Port/prefabs/dock_2.prefab
+  artifactKey: Guid(60a7c2536ae44384a9181dd65cb6d107) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/prefabs/dock_2.prefab using Guid(60a7c2536ae44384a9181dd65cb6d107) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9690e16a565fe474038dd540c0ac4e5b') in 0.539877 seconds 
+  Import took 0.547381 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000338 seconds.
+  path: Assets/Old Sea Port/prefabs/building_segment_5.prefab
+  artifactKey: Guid(8fb5db1b50a4ab341a6b80aff9aa352c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/prefabs/building_segment_5.prefab using Guid(8fb5db1b50a4ab341a6b80aff9aa352c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '863ceef61d290d876f4568d89de144bc') in 0.292350 seconds 
+  Import took 0.301810 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000323 seconds.
+  path: Assets/Old Sea Port/prefabs/rope_3.prefab
+  artifactKey: Guid(72281b9d1ce3f3e4da8ab92b2d502470) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/prefabs/rope_3.prefab using Guid(72281b9d1ce3f3e4da8ab92b2d502470) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0425225cd13665f275d06271ef286dcc') in 0.101846 seconds 
+  Import took 0.110547 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/Old Sea Port/prefabs/boat_1.prefab
+  artifactKey: Guid(0297c1d9dc5137043b0bde39f96ff5b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/prefabs/boat_1.prefab using Guid(0297c1d9dc5137043b0bde39f96ff5b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99f59fd9af47f31ea4e854a59d31ec2d') in 0.343991 seconds 
+  Import took 0.351847 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000382 seconds.
+  path: Assets/Old Sea Port/prefabs/mooring_rope_holder_2.prefab
+  artifactKey: Guid(18330cc3c640eb24b8c54a9b5f2e5f22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/prefabs/mooring_rope_holder_2.prefab using Guid(18330cc3c640eb24b8c54a9b5f2e5f22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6459626c5556a9a95583c52710b2a7bb') in 0.054272 seconds 
+  Import took 0.063015 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000345 seconds.
+  path: Assets/Old Sea Port/prefabs/post_1.prefab
+  artifactKey: Guid(5cf375f9208bd17468242e6d1c3cc819) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/prefabs/post_1.prefab using Guid(5cf375f9208bd17468242e6d1c3cc819) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce299c43a6c2624cd479d0c62a6177ac') in 0.121865 seconds 
+  Import took 0.129457 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 277.054975 seconds.
+  path: Assets/Old Sea Port/Materials/Log_End.mat
+  artifactKey: Guid(fe229f20750599645b732bda3b0b539f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/Materials/Log_End.mat using Guid(fe229f20750599645b732bda3b0b539f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cafc4601eee94059fe76d454714ba2a8') in 4.184467 seconds 
+  Import took 4.193254 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000308 seconds.
+  path: Assets/Old Sea Port/Materials/Log_End_Shiny.mat
+  artifactKey: Guid(257e47870a41c144f895fd29184b1517) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/Materials/Log_End_Shiny.mat using Guid(257e47870a41c144f895fd29184b1517) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a45725fea79602b3758104b466974fab') in 0.230451 seconds 
+  Import took 0.238793 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000350 seconds.
+  path: Assets/Old Sea Port/Materials/Lamp_Glow.mat
+  artifactKey: Guid(1390211c9809f914885aed46ca9f638b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/Materials/Lamp_Glow.mat using Guid(1390211c9809f914885aed46ca9f638b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5c4c64f6db4058d92fb6e4f824a8463') in 0.073543 seconds 
+  Import took 0.083455 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000292 seconds.
+  path: Assets/Old Sea Port/Materials/Cobblestone_Shiny.mat
+  artifactKey: Guid(b5ccf7076bf73e541a3e23897a2a3092) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/Materials/Cobblestone_Shiny.mat using Guid(b5ccf7076bf73e541a3e23897a2a3092) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de9dbbfd04b655d285e5eb3d2fdf31cf') in 0.207249 seconds 
+  Import took 0.214252 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000285 seconds.
+  path: Assets/Old Sea Port/Materials/Maple_bark_1.mat
+  artifactKey: Guid(3ec3880a04008dc48b888eeeca93007c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/Materials/Maple_bark_1.mat using Guid(3ec3880a04008dc48b888eeeca93007c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'caedf6580ed7af2486a1b75840d3df18') in 1.255337 seconds 
+  Import took 1.262706 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Assets/Old Sea Port/Materials/Barrel_Shiny.mat
+  artifactKey: Guid(790aef9e41abc39439890f1d40bf092d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/Materials/Barrel_Shiny.mat using Guid(790aef9e41abc39439890f1d40bf092d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '425409f04ea6ec05af026b868b120bcf') in 0.257141 seconds 
+  Import took 0.264263 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/Old Sea Port/Materials/Bark_Grey.mat
+  artifactKey: Guid(781a3e9c987e0ca44a2f44f3fcfe174b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/Materials/Bark_Grey.mat using Guid(781a3e9c987e0ca44a2f44f3fcfe174b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6cdf1b1db8443de584d44454858a9415') in 0.171049 seconds 
+  Import took 0.179043 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000324 seconds.
+  path: Assets/Old Sea Port/Materials/Bottle.mat
+  artifactKey: Guid(969ccceacfff9674590c23e0a52fb5ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/Materials/Bottle.mat using Guid(969ccceacfff9674590c23e0a52fb5ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3990777d62a29ee015f36a3958a71d8') in 0.049283 seconds 
+  Import took 0.056287 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/Old Sea Port/Materials/maple_leaves.mat
+  artifactKey: Guid(c0fa5e353eba45741a90fe6de147e112) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/Materials/maple_leaves.mat using Guid(c0fa5e353eba45741a90fe6de147e112) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '679f92e22c5f551f6509cca90346da25') in 0.637514 seconds 
+  Import took 0.645512 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000329 seconds.
+  path: Assets/Old Sea Port/Materials/SkyEerie.mat
+  artifactKey: Guid(fa231042141b62943bf62a7eec685939) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/Materials/SkyEerie.mat using Guid(fa231042141b62943bf62a7eec685939) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c3ab2c53cafa1afe52f98f9dc30e28e') in 0.939000 seconds 
+  Import took 0.947175 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000368 seconds.
+  path: Assets/Old Sea Port/Materials/Bark_Grey_Shiny.mat
+  artifactKey: Guid(76b27126339d3d041b24024587f42d55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/Materials/Bark_Grey_Shiny.mat using Guid(76b27126339d3d041b24024587f42d55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '544c835866b4a087c0ca3d19b11c26af') in 0.146150 seconds 
+  Import took 0.155322 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000332 seconds.
+  path: Assets/Old Sea Port/Materials/Rooftiles.mat
+  artifactKey: Guid(0f142ca19d247964dbdb02184863dac4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/Materials/Rooftiles.mat using Guid(0f142ca19d247964dbdb02184863dac4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4241bdba543932837ff59a0a39153513') in 0.115593 seconds 
+  Import took 0.122926 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/Old Sea Port/Materials/Brick Wall_1.mat
+  artifactKey: Guid(3ae387f88eaec6e408d8bd441dd9e934) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/Materials/Brick Wall_1.mat using Guid(3ae387f88eaec6e408d8bd441dd9e934) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b4c1257c9e51b0afeca096e0dccb4a3') in 0.179035 seconds 
+  Import took 0.187344 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000386 seconds.
+  path: Assets/Old Sea Port/Materials/Brick Wall_2.mat
+  artifactKey: Guid(3a2d8369995a465499c90c94fb8b6c4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/Materials/Brick Wall_2.mat using Guid(3a2d8369995a465499c90c94fb8b6c4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85685b2f7563e3822eab63029347496d') in 0.155062 seconds 
+  Import took 0.164382 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000318 seconds.
+  path: Assets/Old Sea Port/Materials/lamp_1.mat
+  artifactKey: Guid(4701823573dc63b47945001206c99c36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/Materials/lamp_1.mat using Guid(4701823573dc63b47945001206c99c36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8bd03e99dcdd20cdc54ff29b3b7a032c') in 0.058718 seconds 
+  Import took 0.065824 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000326 seconds.
+  path: Assets/Old Sea Port/Materials/planks.mat
+  artifactKey: Guid(4695bd902927e834c800f82e4cd6dbca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/Materials/planks.mat using Guid(4695bd902927e834c800f82e4cd6dbca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1dbae7ed69a2b16ed84571363a3caa9c') in 0.230466 seconds 
+  Import took 0.236618 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000316 seconds.
+  path: Assets/Old Sea Port/Materials/rope.mat
+  artifactKey: Guid(247fd6fe4b10e444fae354baca12fe76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/Materials/rope.mat using Guid(247fd6fe4b10e444fae354baca12fe76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98f9187576bfdcdad71d73d0fc5cb96f') in 0.153060 seconds 
+  Import took 0.159930 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000307 seconds.
+  path: Assets/Old Sea Port/Materials/Rooftiles_Shiny.mat
+  artifactKey: Guid(f952cb120c5a884458be2c0cef75425a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/Materials/Rooftiles_Shiny.mat using Guid(f952cb120c5a884458be2c0cef75425a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7a725e35eccd0df1ebea533655e5d98') in 0.161020 seconds 
+  Import took 0.168332 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000388 seconds.
+  path: Assets/Old Sea Port/Materials/Brick Wall_2_Shiny.mat
+  artifactKey: Guid(5b8e306b8f1292a45b62cbb48b6d1467) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/Materials/Brick Wall_2_Shiny.mat using Guid(5b8e306b8f1292a45b62cbb48b6d1467) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4639cffb85e030c96ee3008d10219925') in 0.310268 seconds 
+  Import took 0.316978 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000314 seconds.
+  path: Assets/Old Sea Port/Materials/fence.mat
+  artifactKey: Guid(7a10401e119458544b269a24e3893073) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/Materials/fence.mat using Guid(7a10401e119458544b269a24e3893073) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3453ad41eb4c281cd41998218f6fb1a9') in 0.108760 seconds 
+  Import took 0.116972 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/Old Sea Port/Materials/Canvas.mat
+  artifactKey: Guid(c9d71860ce2bd034b995e445a324944d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/Materials/Canvas.mat using Guid(c9d71860ce2bd034b995e445a324944d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04f7fb9ee55bc41209cc2160f38c8d71') in 0.065632 seconds 
+  Import took 0.072532 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000305 seconds.
+  path: Assets/Old Sea Port/Materials/Dirt.mat
+  artifactKey: Guid(176ea36f9daf67c4cb27762e64b713bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/Materials/Dirt.mat using Guid(176ea36f9daf67c4cb27762e64b713bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '277ac1560bbc8be7e726023a612774d4') in 0.101366 seconds 
+  Import took 0.107746 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000329 seconds.
+  path: Assets/Old Sea Port/Materials/Iron_1.mat
+  artifactKey: Guid(d538140f4435d554bb657ee6910ad9ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/Materials/Iron_1.mat using Guid(d538140f4435d554bb657ee6910ad9ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2749b53318db5951ccf4f822fc76a5b') in 0.079243 seconds 
+  Import took 0.086507 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000332 seconds.
+  path: Assets/Old Sea Port/Materials/Barrel.mat
+  artifactKey: Guid(4eeca5cdb9320684b91638f1ef652987) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/Materials/Barrel.mat using Guid(4eeca5cdb9320684b91638f1ef652987) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94d2448a7501dea8d9f859e84dae6ebb') in 0.157901 seconds 
+  Import took 0.168644 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 66.623209 seconds.
+  path: Assets/Old Sea Port
+  artifactKey: Guid(9176a9ea794eb574ea72a6083ea04d33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port using Guid(9176a9ea794eb574ea72a6083ea04d33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '732ad74f97180c1443d617be020e0d19') in 0.015042 seconds 
+  Import took 0.022731 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.505999 seconds.
+  path: Assets/Old Sea Port/New Material.mat
+  artifactKey: Guid(ec79ae3c336ea544ab9ca3fc3c49dbd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/New Material.mat using Guid(ec79ae3c336ea544ab9ca3fc3c49dbd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4876e1573b1713e1f95b57960f810c5d') in 0.127567 seconds 
+  Import took 0.135934 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 211.808503 seconds.
+  path: Assets/Old Sea Port/Button Trigger.cs
+  artifactKey: Guid(facdbcb49fbbaca4dbdbe799884d7783) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/Button Trigger.cs using Guid(facdbcb49fbbaca4dbdbe799884d7783) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73791c9c5f74ca08f9b2d242f1f3a6b5') in 0.069223 seconds 
+  Import took 0.085031 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.074485 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 27.22 ms, found 6 plugins.
+Preloading 1 native plugins for Editor in 0.59 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in 18.604 seconds
+Domain Reload Profiling:
+	ReloadAssembly (18781ms)
+		BeginReloadAssembly (12324ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (915ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (10125ms)
+		EndReloadAssembly (5823ms)
+			LoadAssemblies (739ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (1514ms)
+			ReleaseScriptCaches (5ms)
+			RebuildScriptCaches (397ms)
+			SetupLoadedEditorAssemblies (2214ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (50ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (28ms)
+				BeforeProcessingInitializeOnLoad (447ms)
+				ProcessInitializeOnLoadAttributes (1520ms)
+				ProcessInitializeOnLoadMethodAttributes (89ms)
+				AfterProcessingInitializeOnLoad (77ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (20ms)
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524294) extendedPlatform(0)
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 2.54 ms, found 6 plugins.
+Preloading 1 native plugins for Editor in 0.23 ms.
+Unloading 3289 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 152.1 MB.
+System memory in use after: 147.8 MB.
+
+Unloading 96 unused Assets to reduce memory usage. Loaded Objects now: 3783.
+Total: 68.287400 ms (FindLiveObjects: 1.065700 ms CreateObjectMapping: 0.794500 ms MarkObjects: 60.995800 ms  DeleteObjects: 5.423800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 169.967793 seconds.
+  path: Assets/Old Sea Port/ButtonTrigger.cs
+  artifactKey: Guid(facdbcb49fbbaca4dbdbe799884d7783) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/ButtonTrigger.cs using Guid(facdbcb49fbbaca4dbdbe799884d7783) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '297515a2c03cefa642eb69b2b55cbe34') in 0.045727 seconds 
+  Import took 0.066893 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.052772 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 3.23 ms, found 6 plugins.
+Preloading 1 native plugins for Editor in 0.47 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.755 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3757ms)
+		BeginReloadAssembly (528ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (157ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (1ms)
+			CreateAndSetChildDomain (122ms)
+		EndReloadAssembly (2972ms)
+			LoadAssemblies (344ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (867ms)
+			ReleaseScriptCaches (3ms)
+			RebuildScriptCaches (101ms)
+			SetupLoadedEditorAssemblies (1156ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (17ms)
+				SetLoadedEditorAssemblies (2ms)
+				RefreshPlugins (4ms)
+				BeforeProcessingInitializeOnLoad (332ms)
+				ProcessInitializeOnLoadAttributes (757ms)
+				ProcessInitializeOnLoadMethodAttributes (18ms)
+				AfterProcessingInitializeOnLoad (24ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (15ms)
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524294) extendedPlatform(0)
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 2.16 ms, found 6 plugins.
+Preloading 1 native plugins for Editor in 0.27 ms.
+Unloading 3289 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 152.0 MB.
+System memory in use after: 147.8 MB.
+
+Unloading 94 unused Assets to reduce memory usage. Loaded Objects now: 3786.
+Total: 18.211800 ms (FindLiveObjects: 1.468200 ms CreateObjectMapping: 0.741000 ms MarkObjects: 8.938200 ms  DeleteObjects: 7.058100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1191.550051 seconds.
+  path: Assets/Old Sea Port/ButtonTrigger.cs
+  artifactKey: Guid(facdbcb49fbbaca4dbdbe799884d7783) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/ButtonTrigger.cs using Guid(facdbcb49fbbaca4dbdbe799884d7783) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c13d1accfbe1cef216d408db8ffd558') in 0.033568 seconds 
+  Import took 0.050989 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.031088 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 2.10 ms, found 6 plugins.
+Preloading 1 native plugins for Editor in 0.35 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.470 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3471ms)
+		BeginReloadAssembly (336ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (15ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (95ms)
+		EndReloadAssembly (2903ms)
+			LoadAssemblies (354ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (895ms)
+			ReleaseScriptCaches (3ms)
+			RebuildScriptCaches (134ms)
+			SetupLoadedEditorAssemblies (1057ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (11ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (3ms)
+				BeforeProcessingInitializeOnLoad (307ms)
+				ProcessInitializeOnLoadAttributes (688ms)
+				ProcessInitializeOnLoadMethodAttributes (20ms)
+				AfterProcessingInitializeOnLoad (26ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (18ms)
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524294) extendedPlatform(0)
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 9.29 ms, found 6 plugins.
+Preloading 1 native plugins for Editor in 0.35 ms.
+Unloading 3289 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 152.1 MB.
+System memory in use after: 147.8 MB.
+
+Unloading 94 unused Assets to reduce memory usage. Loaded Objects now: 3789.
+Total: 22.703600 ms (FindLiveObjects: 1.025300 ms CreateObjectMapping: 0.406700 ms MarkObjects: 11.587200 ms  DeleteObjects: 9.679100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 215.309562 seconds.
+  path: Assets/Old Sea Port/Button 1.controller
+  artifactKey: Guid(f1b29ecbbb0a5c8449401de7fe295896) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/Button 1.controller using Guid(f1b29ecbbb0a5c8449401de7fe295896) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6efcbd2b22e1468b85213ceac53584f') in 0.539848 seconds 
+  Import took 0.555485 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 574.786526 seconds.
+  path: Assets/Old Sea Port/ButtonAnimation.anim
+  artifactKey: Guid(aaec8c97253987f45b3c653051f6feec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/ButtonAnimation.anim using Guid(aaec8c97253987f45b3c653051f6feec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bdfd0261455a20c086ce20d1d6e6b179') in 0.044011 seconds 
+  Import took 0.058362 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.961386 seconds.
+  path: Assets/Old Sea Port/button animation.anim
+  artifactKey: Guid(9dfc2ea7d28a0b2438a436d89baaff8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/button animation.anim using Guid(9dfc2ea7d28a0b2438a436d89baaff8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '019603919fa175f241987a682de61689') in 0.022183 seconds 
+  Import took 0.030419 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.089400 seconds.
+  path: Assets/Old Sea Port/SimpleButton.anim
+  artifactKey: Guid(ecb570bc73153d84bbecccaf7306b308) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/SimpleButton.anim using Guid(ecb570bc73153d84bbecccaf7306b308) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b3e028e716433a003dc172481c3a111') in 0.024858 seconds 
+  Import took 0.037459 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 62.179913 seconds.
+  path: Assets/Old Sea Port/New Animation.anim
+  artifactKey: Guid(e597cb1ab9357c34d9f751a1d36146f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/New Animation.anim using Guid(e597cb1ab9357c34d9f751a1d36146f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de6a14d92b396ed01e62c4bea0c0caa5') in 0.030349 seconds 
+  Import took 0.047632 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.026708 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 2.44 ms, found 6 plugins.
+Preloading 1 native plugins for Editor in 0.31 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.606 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2607ms)
+		BeginReloadAssembly (195ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (9ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (63ms)
+		EndReloadAssembly (2317ms)
+			LoadAssemblies (175ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (534ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (92ms)
+			SetupLoadedEditorAssemblies (1062ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (15ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (3ms)
+				BeforeProcessingInitializeOnLoad (261ms)
+				ProcessInitializeOnLoadAttributes (756ms)
+				ProcessInitializeOnLoadMethodAttributes (10ms)
+				AfterProcessingInitializeOnLoad (15ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (9ms)
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524294) extendedPlatform(0)
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 2.62 ms, found 6 plugins.
+Preloading 1 native plugins for Editor in 0.30 ms.
+Unloading 3289 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 152.1 MB.
+System memory in use after: 147.8 MB.
+
+Unloading 94 unused Assets to reduce memory usage. Loaded Objects now: 3792.
+Total: 17.994900 ms (FindLiveObjects: 2.608200 ms CreateObjectMapping: 0.421500 ms MarkObjects: 8.493900 ms  DeleteObjects: 6.467800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 408.140886 seconds.
+  path: Assets/Old Sea Port/ButtonTrigger.cs
+  artifactKey: Guid(facdbcb49fbbaca4dbdbe799884d7783) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/ButtonTrigger.cs using Guid(facdbcb49fbbaca4dbdbe799884d7783) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '414071c96836756e97a4e0ac4c5c5ae9') in 0.032112 seconds 
+  Import took 0.045787 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1820.848762 seconds.
+  path: Assets/Old Sea Port/RaisePillars.cs
+  artifactKey: Guid(12ee4122ec0605f4b99a5a4a256e0208) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/RaisePillars.cs using Guid(12ee4122ec0605f4b99a5a4a256e0208) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33670f5cd850d5a0612af2677fd0260f') in 0.440270 seconds 
+  Import took 0.450538 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.038063 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.69 ms, found 6 plugins.
+Preloading 1 native plugins for Editor in 0.20 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.769 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2770ms)
+		BeginReloadAssembly (287ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (13ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (120ms)
+		EndReloadAssembly (2385ms)
+			LoadAssemblies (169ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (664ms)
+			ReleaseScriptCaches (3ms)
+			RebuildScriptCaches (136ms)
+			SetupLoadedEditorAssemblies (806ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (16ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (149ms)
+				ProcessInitializeOnLoadAttributes (608ms)
+				ProcessInitializeOnLoadMethodAttributes (14ms)
+				AfterProcessingInitializeOnLoad (15ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (14ms)
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524294) extendedPlatform(0)
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 1.19 ms, found 6 plugins.
+Preloading 1 native plugins for Editor in 0.15 ms.
+Unloading 3290 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 152.1 MB.
+System memory in use after: 147.9 MB.
+
+Unloading 94 unused Assets to reduce memory usage. Loaded Objects now: 3796.
+Total: 21.397200 ms (FindLiveObjects: 0.540100 ms CreateObjectMapping: 0.191700 ms MarkObjects: 5.533600 ms  DeleteObjects: 15.129700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 776.165643 seconds.
+  path: Assets/Old Sea Port/New Material.mat
+  artifactKey: Guid(ec79ae3c336ea544ab9ca3fc3c49dbd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/New Material.mat using Guid(ec79ae3c336ea544ab9ca3fc3c49dbd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '830f0970e7b768a674b0542ad990b3b1') in 1.348722 seconds 
+  Import took 1.362325 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.010481 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.43 ms, found 6 plugins.
+Preloading 1 native plugins for Editor in 0.24 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.341 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2342ms)
+		BeginReloadAssembly (211ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (7ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (65ms)
+		EndReloadAssembly (2041ms)
+			LoadAssemblies (215ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (487ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (60ms)
+			SetupLoadedEditorAssemblies (911ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (10ms)
+				SetLoadedEditorAssemblies (2ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (194ms)
+				ProcessInitializeOnLoadAttributes (622ms)
+				ProcessInitializeOnLoadMethodAttributes (63ms)
+				AfterProcessingInitializeOnLoad (18ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (15ms)
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524294) extendedPlatform(0)
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 1.84 ms, found 6 plugins.
+Preloading 1 native plugins for Editor in 0.42 ms.
+Unloading 3290 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 152.2 MB.
+System memory in use after: 147.8 MB.
+
+Unloading 94 unused Assets to reduce memory usage. Loaded Objects now: 3800.
+Total: 13.496900 ms (FindLiveObjects: 0.505000 ms CreateObjectMapping: 0.251400 ms MarkObjects: 7.451900 ms  DeleteObjects: 5.284800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1844.880949 seconds.
+  path: Assets/Old Sea Port/New Material.mat
+  artifactKey: Guid(ec79ae3c336ea544ab9ca3fc3c49dbd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/New Material.mat using Guid(ec79ae3c336ea544ab9ca3fc3c49dbd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1fc0f1b80a9c59f6d736ac6b38eb854a') in 0.123586 seconds 
+  Import took 0.133435 seconds .
+
+========================================================================
+Received Prepare
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 21.88 ms, found 6 plugins.
+Preloading 1 native plugins for Editor in 0.15 ms.
+Unloading 91 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.5 MB.
+System memory in use after: 84.2 MB.
+
+Unloading 91 unused Assets to reduce memory usage. Loaded Objects now: 3801.
+Total: 9.114700 ms (FindLiveObjects: 0.485900 ms CreateObjectMapping: 0.147700 ms MarkObjects: 5.349000 ms  DeleteObjects: 3.129800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 675.825298 seconds.
+  path: Assets/Old Sea Port/Materials
+  artifactKey: Guid(58f42fe41a2f0c341b7f39a35e42b033) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/Materials using Guid(58f42fe41a2f0c341b7f39a35e42b033) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79178c0878e973e0735bd4a1957862a0') in 0.052428 seconds 
+  Import took 0.269768 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000285 seconds.
+  path: Assets/Old Sea Port/Materials/Cobblestone_Shiny.mat
+  artifactKey: Guid(b5ccf7076bf73e541a3e23897a2a3092) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/Materials/Cobblestone_Shiny.mat using Guid(b5ccf7076bf73e541a3e23897a2a3092) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2219e6c2c4be63c0d7a28802d24df432') in 0.938065 seconds 
+  Import took 0.946623 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000344 seconds.
+  path: Assets/Old Sea Port/Materials/planks_shiny.mat
+  artifactKey: Guid(d856bef9752f4b94792d16ec0dfbaa6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/Materials/planks_shiny.mat using Guid(d856bef9752f4b94792d16ec0dfbaa6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62964e64d724edce8b91a5c48a3a17d5') in 0.457047 seconds 
+  Import took 0.472200 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000479 seconds.
+  path: Assets/Old Sea Port/Materials/Canvas.mat
+  artifactKey: Guid(c9d71860ce2bd034b995e445a324944d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/Materials/Canvas.mat using Guid(c9d71860ce2bd034b995e445a324944d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17299e4621ee4aa1722c1b5eb5950f0e') in 0.128430 seconds 
+  Import took 0.146916 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.592781 seconds.
+  path: Assets/Old Sea Port/mesh/barrel.fbx
+  artifactKey: Guid(dccefce15f3680742b1f2b9ee8f95dd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/mesh/barrel.fbx using Guid(dccefce15f3680742b1f2b9ee8f95dd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1d80320f21107358f900591342ecfa2') in 0.941117 seconds 
+  Import took 0.956463 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000468 seconds.
+  path: Assets/Old Sea Port/mesh/fence_segment_2.fbx
+  artifactKey: Guid(4d665f3a611984d47996c09173f54b37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/mesh/fence_segment_2.fbx using Guid(4d665f3a611984d47996c09173f54b37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e29bc9bc9efb6b04cee4f1749b65c65f') in 0.164964 seconds 
+  Import took 0.178327 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000420 seconds.
+  path: Assets/Old Sea Port/mesh/hammer.fbx
+  artifactKey: Guid(cfd984fc4f7f10c4eb63402c8dc759a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/mesh/hammer.fbx using Guid(cfd984fc4f7f10c4eb63402c8dc759a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c3ca976de119e3ab9cddbee0feb565c') in 0.093468 seconds 
+  Import took 0.104754 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/Old Sea Port/mesh/building_segment_3.fbx
+  artifactKey: Guid(b06924d9cdbb1574983828a10340bf52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/mesh/building_segment_3.fbx using Guid(b06924d9cdbb1574983828a10340bf52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17d006f31bc567a571355dfeb4e93b89') in 0.043493 seconds 
+  Import took 0.051659 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000296 seconds.
+  path: Assets/Old Sea Port/mesh/bottle.fbx
+  artifactKey: Guid(d2e718e3487d65f4e982de3713b184a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/mesh/bottle.fbx using Guid(d2e718e3487d65f4e982de3713b184a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4ee708a8635f2518d4cde3ed8b4c316') in 0.035914 seconds 
+  Import took 0.043850 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/Old Sea Port/mesh/building_segment_5.fbx
+  artifactKey: Guid(57c2463eb8525a342959a81e4db49b37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/mesh/building_segment_5.fbx using Guid(57c2463eb8525a342959a81e4db49b37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34fc5d282e09c51da954227320274680') in 0.046818 seconds 
+  Import took 0.055196 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/Old Sea Port/mesh/chair.fbx
+  artifactKey: Guid(42b0d009ef33b5b488d26678ec1faa22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/mesh/chair.fbx using Guid(42b0d009ef33b5b488d26678ec1faa22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb39dd1cb5a844fa1c7f1a3f4ed73e56') in 0.044242 seconds 
+  Import took 0.051401 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/Old Sea Port/mesh/fence_segment_1.fbx
+  artifactKey: Guid(ddbd88117fbb37149967fc59345bf64e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/mesh/fence_segment_1.fbx using Guid(ddbd88117fbb37149967fc59345bf64e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db9d49e0cafc546695a91807ecf68d91') in 0.037112 seconds 
+  Import took 0.045060 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000292 seconds.
+  path: Assets/Old Sea Port/mesh/building_segment_6.fbx
+  artifactKey: Guid(ceaf37662ffe76840a151e0bc5b366ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/mesh/building_segment_6.fbx using Guid(ceaf37662ffe76840a151e0bc5b366ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c961733a346a9b43ddd40022ed37e7e0') in 0.041064 seconds 
+  Import took 0.049300 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000307 seconds.
+  path: Assets/Old Sea Port/mesh/dock_2.fbx
+  artifactKey: Guid(96f68129d85fbc340987bf3fe5fb6079) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/mesh/dock_2.fbx using Guid(96f68129d85fbc340987bf3fe5fb6079) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3dcdba783564f0dcbdef77419ac0ca8c') in 0.353153 seconds 
+  Import took 0.364895 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000423 seconds.
+  path: Assets/Old Sea Port/mesh/rope_3.fbx
+  artifactKey: Guid(cb1f6f82cc530a74c940352d001d34d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/mesh/rope_3.fbx using Guid(cb1f6f82cc530a74c940352d001d34d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa12232aa56782d3403842198be4c61a') in 0.130698 seconds 
+  Import took 0.143632 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000410 seconds.
+  path: Assets/Old Sea Port/mesh/post_2.fbx
+  artifactKey: Guid(188259caed4c91d4fa37496fab8084ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/mesh/post_2.fbx using Guid(188259caed4c91d4fa37496fab8084ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24b1f454e3f9f7c83e08e5e4b3e62e90') in 0.094948 seconds 
+  Import took 0.105685 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000453 seconds.
+  path: Assets/Old Sea Port/mesh/boat_2.fbx
+  artifactKey: Guid(21e831160f0c20a4abe945f214240beb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/mesh/boat_2.fbx using Guid(21e831160f0c20a4abe945f214240beb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0248dfecfb423392870db1f33a456a4') in 0.121285 seconds 
+  Import took 0.129749 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000306 seconds.
+  path: Assets/Old Sea Port/mesh/brick_column_1.fbx
+  artifactKey: Guid(1db8014869e9de646abdb86a9b03073c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/mesh/brick_column_1.fbx using Guid(1db8014869e9de646abdb86a9b03073c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e672e1e991171367663c713868a3154') in 0.076932 seconds 
+  Import took 0.085642 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/Old Sea Port/mesh/building_segment_1.fbx
+  artifactKey: Guid(fe7815a17afaa784a80f9bab1b3aa807) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/mesh/building_segment_1.fbx using Guid(fe7815a17afaa784a80f9bab1b3aa807) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9363fad7a9a360c9bdd18c205714767') in 0.062886 seconds 
+  Import took 0.073345 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000446 seconds.
+  path: Assets/Old Sea Port/mesh
+  artifactKey: Guid(0e2952b77591d60419ff08838a4e6c18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/mesh using Guid(0e2952b77591d60419ff08838a4e6c18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '184e76f9c54b09befdf7ba9bcf660998') in 0.019345 seconds 
+  Import took 0.029145 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000331 seconds.
+  path: Assets/Old Sea Port/mesh/crate_2.fbx
+  artifactKey: Guid(734611d8ae4d957478c45d109af042a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/mesh/crate_2.fbx using Guid(734611d8ae4d957478c45d109af042a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b5f56fd774b69add43bce96b6a94e19') in 0.068654 seconds 
+  Import took 0.079621 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000304 seconds.
+  path: Assets/Old Sea Port/mesh/brick_tree_base.fbx
+  artifactKey: Guid(24862a2d9bb989949893146bd2d33428) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/mesh/brick_tree_base.fbx using Guid(24862a2d9bb989949893146bd2d33428) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85b4cd27c8bf073107259f99146123a5') in 0.133823 seconds 
+  Import took 0.144588 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000449 seconds.
+  path: Assets/Old Sea Port/mesh/fence_gate.fbx
+  artifactKey: Guid(b2cfdd5ceba6f884e9553575bacbc921) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/mesh/fence_gate.fbx using Guid(b2cfdd5ceba6f884e9553575bacbc921) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35240a8f38ce195314c5e22cd90aec78') in 0.052412 seconds 
+  Import took 0.064985 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000460 seconds.
+  path: Assets/Old Sea Port/mesh/dock_1.fbx
+  artifactKey: Guid(8cbbacdc2797abc488851a95c2635bf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/mesh/dock_1.fbx using Guid(8cbbacdc2797abc488851a95c2635bf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eaac87e1d0566a8b33e538b7d0bccaff') in 0.104470 seconds 
+  Import took 0.118299 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000411 seconds.
+  path: Assets/Old Sea Port/mesh/boat_1.fbx
+  artifactKey: Guid(b28782be19c0382489f049a8c11e11ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/mesh/boat_1.fbx using Guid(b28782be19c0382489f049a8c11e11ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4445a70ad379621ee4cdca518174ae2c') in 0.063863 seconds 
+  Import took 0.076582 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000379 seconds.
+  path: Assets/Old Sea Port/mesh/brick_wall_1.fbx
+  artifactKey: Guid(5b10a3532c8c3cc4da4dc079804cdf2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/mesh/brick_wall_1.fbx using Guid(5b10a3532c8c3cc4da4dc079804cdf2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f947c8faa87c51f21ab6f5248e40ccf2') in 0.162076 seconds 
+  Import took 0.175569 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000435 seconds.
+  path: Assets/Old Sea Port/mesh/lamp_1.fbx
+  artifactKey: Guid(4ab325a57b9cd6a4a937fc4a13fc2ad5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/mesh/lamp_1.fbx using Guid(4ab325a57b9cd6a4a937fc4a13fc2ad5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33d2a08468cec468bd2f65a23bb91999') in 0.148690 seconds 
+  Import took 0.161962 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000466 seconds.
+  path: Assets/Old Sea Port/mesh/circular_table.fbx
+  artifactKey: Guid(74c5832b0954fd44d8cffe225158ceea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/mesh/circular_table.fbx using Guid(74c5832b0954fd44d8cffe225158ceea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '499aa21a00651d94813d3d2764616cd3') in 0.070028 seconds 
+  Import took 0.080878 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/Old Sea Port/mesh/mooring_rope_holder.fbx
+  artifactKey: Guid(2a6baaf4ee4ed4649a1c0c74be99a7f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/mesh/mooring_rope_holder.fbx using Guid(2a6baaf4ee4ed4649a1c0c74be99a7f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45d989b8e290a53f88a30efe4f1327aa') in 0.073609 seconds 
+  Import took 0.082405 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000313 seconds.
+  path: Assets/Old Sea Port/mesh/building_segment_4.fbx
+  artifactKey: Guid(592baa9a80ff7844bbfcc133a0f63878) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/mesh/building_segment_4.fbx using Guid(592baa9a80ff7844bbfcc133a0f63878) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c061633b4aa151db9bd42737c454605') in 0.047961 seconds 
+  Import took 0.056039 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/Old Sea Port/mesh/plank_1.fbx
+  artifactKey: Guid(e20a355c375c4bf4e8f782742812dcba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/mesh/plank_1.fbx using Guid(e20a355c375c4bf4e8f782742812dcba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eef563e3d6d0aac6373f9d4c5aeeee89') in 0.046636 seconds 
+  Import took 0.053718 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000288 seconds.
+  path: Assets/Old Sea Port/mesh/crate_1.fbx
+  artifactKey: Guid(5be8634ccfcc74841a2130c8f8a656af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/mesh/crate_1.fbx using Guid(5be8634ccfcc74841a2130c8f8a656af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6144871946eacdb28cbff6de77c121d') in 0.037071 seconds 
+  Import took 0.044013 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000449 seconds.
+  path: Assets/Old Sea Port/mesh/log_1.fbx
+  artifactKey: Guid(c4cc542ae7512ef458debcc6dee326dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/mesh/log_1.fbx using Guid(c4cc542ae7512ef458debcc6dee326dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4329b1a4011f0abac1f45e2a0090e1e') in 0.141568 seconds 
+  Import took 0.153629 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000319 seconds.
+  path: Assets/Old Sea Port/mesh/post_1.fbx
+  artifactKey: Guid(8b50be6bc899b9140ad8ff1a5d587a56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/mesh/post_1.fbx using Guid(8b50be6bc899b9140ad8ff1a5d587a56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c088956551896eb3ed8c45b1efc5ff0f') in 0.050742 seconds 
+  Import took 0.061191 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000312 seconds.
+  path: Assets/Old Sea Port/mesh/mooring_rope_holder_2.fbx
+  artifactKey: Guid(f74e57a5ad5640f4da5eb349ae178364) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/mesh/mooring_rope_holder_2.fbx using Guid(f74e57a5ad5640f4da5eb349ae178364) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96f2d149734e77eeb362d3d43e578304') in 0.070781 seconds 
+  Import took 0.077226 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/Old Sea Port/mesh/ladder_1.fbx
+  artifactKey: Guid(908cb165db09e6d42a438cfc3af8efe0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/mesh/ladder_1.fbx using Guid(908cb165db09e6d42a438cfc3af8efe0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0bc60b5a9868dd836393a8b33fda7a7c') in 0.083241 seconds 
+  Import took 0.093080 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000459 seconds.
+  path: Assets/Old Sea Port/mesh/building_segment_2.fbx
+  artifactKey: Guid(8bf66b04564362f459c70d380960818a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/mesh/building_segment_2.fbx using Guid(8bf66b04564362f459c70d380960818a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bbb66e8360313f03500cafd37e907b48') in 0.086848 seconds 
+  Import took 0.097657 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000316 seconds.
+  path: Assets/Old Sea Port/mesh/fireplace.fbx
+  artifactKey: Guid(5b668adf7e553bf47b208d001bca688b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/mesh/fireplace.fbx using Guid(5b668adf7e553bf47b208d001bca688b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7702569b7adcec2266cad1f2b7b1cc2') in 0.052637 seconds 
+  Import took 0.062413 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000314 seconds.
+  path: Assets/Old Sea Port/mesh/Old Sea Port_Tree.fbx
+  artifactKey: Guid(bc1283a4efa3cd647924ae2bca1f366a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/mesh/Old Sea Port_Tree.fbx using Guid(bc1283a4efa3cd647924ae2bca1f366a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5789e6c205c3531a465fdb2e44877dd') in 0.059964 seconds 
+  Import took 0.069801 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 165.110293 seconds.
+  path: Assets/Old Sea Port/mesh/stairs_wood_spiral.fbx
+  artifactKey: Guid(a3983032df6f6a4498ab985c4088f21d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/mesh/stairs_wood_spiral.fbx using Guid(a3983032df6f6a4498ab985c4088f21d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63544b2efd4daa61a164c58474746860') in 0.070986 seconds 
+  Import took 0.079411 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000330 seconds.
+  path: Assets/Old Sea Port/mesh/tower.fbx
+  artifactKey: Guid(6d50435c0af55b74f95f6881ff19d8ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/mesh/tower.fbx using Guid(6d50435c0af55b74f95f6881ff19d8ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '600385617b96581e4edc37ee61c6b3f9') in 0.040292 seconds 
+  Import took 0.049141 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000308 seconds.
+  path: Assets/Old Sea Port/mesh/Wood Canopy.fbx
+  artifactKey: Guid(2fa7e1ef5baf7114593a7471e8065425) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/mesh/Wood Canopy.fbx using Guid(2fa7e1ef5baf7114593a7471e8065425) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed0e3c2108ede02a334b3c70d6d1dd69') in 0.070315 seconds 
+  Import took 0.078529 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/Old Sea Port/mesh/tower_extension.fbx
+  artifactKey: Guid(69aa8b9d7d649a14b937cf6e269319c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/mesh/tower_extension.fbx using Guid(69aa8b9d7d649a14b937cf6e269319c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7dd2b05c8da95da58f466d6f157dcdd6') in 0.038891 seconds 
+  Import took 0.045789 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000332 seconds.
+  path: Assets/Old Sea Port/mesh/tower_short.fbx
+  artifactKey: Guid(bd57b9b38c2b9504fba073fc57c09738) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/mesh/tower_short.fbx using Guid(bd57b9b38c2b9504fba073fc57c09738) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a31bb7338c2969f03a2cd215ffe4337a') in 0.042150 seconds 
+  Import took 0.050156 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/Old Sea Port/mesh/workbench.fbx
+  artifactKey: Guid(e11e5e8a26ce863468d2da27e1abe812) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/mesh/workbench.fbx using Guid(e11e5e8a26ce863468d2da27e1abe812) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63737032a8255cc80fb9bd6534d28b4e') in 0.680909 seconds 
+  Import took 0.691586 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 541.679099 seconds.
+  path: Assets/Old Sea Port/Water/Old Sea Port_Water.mat
+  artifactKey: Guid(d93816328639b73459e52af75ae1dd84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/Water/Old Sea Port_Water.mat using Guid(d93816328639b73459e52af75ae1dd84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '294ae898db42b5bcea85d2aa8215b1ce') in 0.262244 seconds 
+  Import took 0.276708 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000429 seconds.
+  path: Assets/Old Sea Port/Water/Stream_Detail_Normals.png
+  artifactKey: Guid(f366779a17f54444485071fb5eab8ce2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/Water/Stream_Detail_Normals.png using Guid(f366779a17f54444485071fb5eab8ce2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd06eb5d9629e521956abf4106d607d2') in 0.230246 seconds 
+  Import took 0.243059 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.331774 seconds.
+  path: Assets/Resources/ONSPSettings.asset
+  artifactKey: Guid(87dc46ae97466f245840ef3ecb14836b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/ONSPSettings.asset using Guid(87dc46ae97466f245840ef3ecb14836b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65ec19b56f4b1ca3ed231b8e5177b75b') in 0.028988 seconds 
+  Import took 0.046225 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000441 seconds.
+  path: Assets/Resources/OVRBuildConfig.asset
+  artifactKey: Guid(09349d59d333ff1428d301e937de392f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/OVRBuildConfig.asset using Guid(09349d59d333ff1428d301e937de392f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1612e4dc02fc964896556c21e55166ea') in 0.023026 seconds 
+  Import took 0.036513 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000444 seconds.
+  path: Assets/Resources/OVRPlatformToolSettings.asset
+  artifactKey: Guid(9407316c7c0ccd74d99f72f81126568b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/OVRPlatformToolSettings.asset using Guid(9407316c7c0ccd74d99f72f81126568b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f630ce8e6cd0f9681a67629008e9441a') in 0.075229 seconds 
+  Import took 0.089594 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.956316 seconds.
+  path: Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Models/TrainPalette.FBX
+  artifactKey: Guid(bd0bb729cb6159b4ab21c5f62cad24ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Models/TrainPalette.FBX using Guid(bd0bb729cb6159b4ab21c5f62cad24ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '814b9835f4981cc190ba53bd592d1610') in 3.236288 seconds 
+  Import took 3.252241 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000325 seconds.
+  path: Assets/Oculus/SampleFramework/Core/CustomHands/Models/HandPoseDefaultPf.prefab
+  artifactKey: Guid(35525acb4c3b75c4a8c4dc2c117427be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/SampleFramework/Core/CustomHands/Models/HandPoseDefaultPf.prefab using Guid(35525acb4c3b75c4a8c4dc2c117427be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71a095a81b5ddfbaa81c28d6fefdb856') in 0.019890 seconds 
+  Import took 0.027451 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000319 seconds.
+  path: Assets/Oculus/AudioManager/Scripts/Utils/Editor/Oculus.AudioManager.Utils.Editor.asmdef
+  artifactKey: Guid(4e79697c263b8554db87efff0e7046ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/AudioManager/Scripts/Utils/Editor/Oculus.AudioManager.Utils.Editor.asmdef using Guid(4e79697c263b8554db87efff0e7046ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a22186169991d4459a41a52bb243bd6') in 0.104978 seconds 
+  Import took 0.116114 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000317 seconds.
+  path: Assets/Oculus/AudioManager/Oculus.AudioManager.asmdef
+  artifactKey: Guid(21b850ac1b5452b46a20c637f002dbf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/AudioManager/Oculus.AudioManager.asmdef using Guid(21b850ac1b5452b46a20c637f002dbf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a049078f26df8f05cc3c85e5f6e3cfe0') in 0.018541 seconds 
+  Import took 0.031126 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000581 seconds.
+  path: Assets/Old Sea Port/EffectExamples/Shared/Materials/DarkDefault.mat
+  artifactKey: Guid(2062b6d0a7a2d4f46b4689198aedadd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/EffectExamples/Shared/Materials/DarkDefault.mat using Guid(2062b6d0a7a2d4f46b4689198aedadd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '951212e30d7f9835f1055819245d951f') in 0.635614 seconds 
+  Import took 0.650138 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000456 seconds.
+  path: Assets/Oculus/AudioManager/Scripts/Audio/Editor/Oculus.AudioManager.Audio.Editor.asmdef
+  artifactKey: Guid(e2367297a6c431949a05cf8078ad917d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/AudioManager/Scripts/Audio/Editor/Oculus.AudioManager.Audio.Editor.asmdef using Guid(e2367297a6c431949a05cf8078ad917d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3848382391f08d0bdea0459da172e92e') in 0.026300 seconds 
+  Import took 0.039586 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000475 seconds.
+  path: Assets/Oculus/AudioManager/Audio
+  artifactKey: Guid(29ab7e927676ef74a93aeedf4146f1ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/AudioManager/Audio using Guid(29ab7e927676ef74a93aeedf4146f1ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2575855b77d510535f0874599e3f6e19') in 0.025302 seconds 
+  Import took 0.038965 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000396 seconds.
+  path: Assets/Oculus/SampleFramework/Core/HandsInteraction/Materials/DefaultHandMaterial.mat
+  artifactKey: Guid(8f92ce6a2e9e04e458f46e6a635b1d62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/SampleFramework/Core/HandsInteraction/Materials/DefaultHandMaterial.mat using Guid(8f92ce6a2e9e04e458f46e6a635b1d62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e9670abd43d8ba7caaca6b0e8e2519b') in 0.577053 seconds 
+  Import took 0.585259 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000526 seconds.
+  path: Assets/Oculus/AudioManager/Audio/TestSounds/metal_sliding_door_open_01.wav
+  artifactKey: Guid(7000b4d67a1320940b363f3cf891dfff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/AudioManager/Audio/TestSounds/metal_sliding_door_open_01.wav using Guid(7000b4d67a1320940b363f3cf891dfff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5bd50dd0b5454775700435079ba50025') in 0.397105 seconds 
+  Import took 0.405382 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000303 seconds.
+  path: Assets/Oculus/AudioManager/Audio/TestSounds/metal_sliding_door_open_01a.wav
+  artifactKey: Guid(8198ccc08475a764daaf226b841a55f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/AudioManager/Audio/TestSounds/metal_sliding_door_open_01a.wav using Guid(8198ccc08475a764daaf226b841a55f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52c20127b037e10f48e26ee95dbb1b94') in 0.089938 seconds 
+  Import took 0.097035 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/Oculus/AudioManager/Audio/TestSounds/metal_sliding_door_close_01a.wav
+  artifactKey: Guid(d3994560fb567c34a821fd9355c10eef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/AudioManager/Audio/TestSounds/metal_sliding_door_close_01a.wav using Guid(d3994560fb567c34a821fd9355c10eef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be253350914a54b00f8531e7e67429db') in 0.072037 seconds 
+  Import took 0.080004 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000319 seconds.
+  path: Assets/Oculus/AudioManager/Audio/TestSounds
+  artifactKey: Guid(180c8a539f95cce428f820b0ba392c1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/AudioManager/Audio/TestSounds using Guid(180c8a539f95cce428f820b0ba392c1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b063893b5ea296336794b603c352a27c') in 0.015022 seconds 
+  Import took 0.022388 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000304 seconds.
+  path: Assets/Oculus/AudioManager/Audio/TestSounds/metal_sliding_door_close_01.wav
+  artifactKey: Guid(485ac48a563e2bf44bb4de7ead5a1f68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/AudioManager/Audio/TestSounds/metal_sliding_door_close_01.wav using Guid(485ac48a563e2bf44bb4de7ead5a1f68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0f2e8d6e38376043a3f46974c25a27e') in 0.044499 seconds 
+  Import took 0.052351 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000299 seconds.
+  path: Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Models/ControllerBox.FBX
+  artifactKey: Guid(6ea491f82329b774d8b8af4a409d8d03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Models/ControllerBox.FBX using Guid(6ea491f82329b774d8b8af4a409d8d03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd59908a3cf4406ab769ed0a9a6f5cac4') in 0.692954 seconds 
+  Import took 0.704495 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 24.923820 seconds.
+  path: Assets/Oculus/OculusProjectConfig.asset
+  artifactKey: Guid(5b2439173c43caf4d8117dd088d87fca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/OculusProjectConfig.asset using Guid(5b2439173c43caf4d8117dd088d87fca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1795f70e4592c8de0734a03e11144285') in 0.031413 seconds 
+  Import took 0.046763 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.577280 seconds.
+  path: Assets/Oculus/SampleFramework/Core/HandsInteraction/Audio
+  artifactKey: Guid(c16c4116bcbdd184280b311f0ea43adb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/SampleFramework/Core/HandsInteraction/Audio using Guid(c16c4116bcbdd184280b311f0ea43adb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5bb3da7a3e4ce39ba134f4f59973e4b5') in 0.016154 seconds 
+  Import took 0.034101 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003452 seconds.
+  path: Assets/Oculus/SampleFramework/Core/HandsInteraction/Audio/ButtonDown.wav
+  artifactKey: Guid(98e759dfda69aa7468d95f5a2c88e366) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/SampleFramework/Core/HandsInteraction/Audio/ButtonDown.wav using Guid(98e759dfda69aa7468d95f5a2c88e366) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '046550ebef8f531ed5269adec0cfd586') in 0.180363 seconds 
+  Import took 0.197784 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000410 seconds.
+  path: Assets/Oculus/SampleFramework/Core/HandsInteraction/Audio/ButtonUp.wav
+  artifactKey: Guid(523f822c1c7b699489c49fea2353c2de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/SampleFramework/Core/HandsInteraction/Audio/ButtonUp.wav using Guid(523f822c1c7b699489c49fea2353c2de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ecee5003b87f64f2929b9c66cbb9fb01') in 0.074323 seconds 
+  Import took 0.086905 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.173626 seconds.
+  path: Assets/Oculus/SampleFramework/Core/Firebase
+  artifactKey: Guid(4d13522c218811e429625edc09dae3dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/SampleFramework/Core/Firebase using Guid(4d13522c218811e429625edc09dae3dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7478cec7dd0d63407b5d365318208102') in 0.022656 seconds 
+  Import took 0.033212 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.608137 seconds.
+  path: Assets/Oculus/SampleFramework/Core/Firebase/Editor
+  artifactKey: Guid(7162ab977140f454cb05ccbceb75bc63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/SampleFramework/Core/Firebase/Editor using Guid(7162ab977140f454cb05ccbceb75bc63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c69d09d040bb8e2547c466d3ae9c2ec6') in 0.034794 seconds 
+  Import took 0.049124 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.510898 seconds.
+  path: Assets/TeleportDestinationnew.prefab
+  artifactKey: Guid(069534826d5e6d048bb31af8b6ef108b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TeleportDestinationnew.prefab using Guid(069534826d5e6d048bb31af8b6ef108b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a91708d8a61f9194819de1665ad6a12') in 0.152433 seconds 
+  Import took 0.166076 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 268.266381 seconds.
+  path: Assets/Old Sea Port/EffectExamples/FireExplosionEffects
+  artifactKey: Guid(9c9c292c9091a7d4fbaf34fdd81b85fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/EffectExamples/FireExplosionEffects using Guid(9c9c292c9091a7d4fbaf34fdd81b85fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e943d9774d6134ef0b7ff39e059e82bb') in 0.027482 seconds 
+  Import took 0.037046 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.680648 seconds.
+  path: Assets/Old Sea Port/EffectExamples/FireExplosionEffects/Prefabs
+  artifactKey: Guid(af557a47dae08a94cb2839384fe7ac98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/EffectExamples/FireExplosionEffects/Prefabs using Guid(af557a47dae08a94cb2839384fe7ac98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '082e04a831ba42b268c8f54c1a8723e2') in 0.020490 seconds 
+  Import took 0.045286 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000523 seconds.
+  path: Assets/Old Sea Port/EffectExamples/FireExplosionEffects/Prefabs/FlamesParticleEffect.prefab
+  artifactKey: Guid(3228a22491941734bb83ad691d17fcb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/EffectExamples/FireExplosionEffects/Prefabs/FlamesParticleEffect.prefab using Guid(3228a22491941734bb83ad691d17fcb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c989b7502f67fee0e1983e3696ae039c') in 0.053652 seconds 
+  Import took 0.061312 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.789722 seconds.
+  path: Assets/Old Sea Port/EffectExamples/FireExplosionEffects/Materials/DebrisParticle.mat
+  artifactKey: Guid(72815344e9e9c7446895e130936932d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/EffectExamples/FireExplosionEffects/Materials/DebrisParticle.mat using Guid(72815344e9e9c7446895e130936932d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73bd41172a20f6f167af7fa49f869e43') in 0.211916 seconds 
+  Import took 0.222570 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000385 seconds.
+  path: Assets/Old Sea Port/EffectExamples/FireExplosionEffects/Materials/PlasmaExplosionParticle.mat
+  artifactKey: Guid(7ff1ab0b724442843965e2dd0f02e969) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/EffectExamples/FireExplosionEffects/Materials/PlasmaExplosionParticle.mat using Guid(7ff1ab0b724442843965e2dd0f02e969) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f39b8ce63111a61b72b0904d7656b5d9') in 0.407322 seconds 
+  Import took 0.417177 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000302 seconds.
+  path: Assets/Old Sea Port/EffectExamples/FireExplosionEffects/Materials/SmokeLightParticle.mat
+  artifactKey: Guid(f06455b167e1b0b428c9af62d7aa6832) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/EffectExamples/FireExplosionEffects/Materials/SmokeLightParticle.mat using Guid(f06455b167e1b0b428c9af62d7aa6832) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f868ad02dd374c53ab6170217028e02') in 0.531949 seconds 
+  Import took 0.545681 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000446 seconds.
+  path: Assets/Old Sea Port/EffectExamples/FireExplosionEffects/Materials/SmokeDarkParticle.mat
+  artifactKey: Guid(698a8134f4ebbbd4e848648685f68067) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/EffectExamples/FireExplosionEffects/Materials/SmokeDarkParticle.mat using Guid(698a8134f4ebbbd4e848648685f68067) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e6b384f53f41a4067c6c446bc4ef326') in 0.123430 seconds 
+  Import took 0.132861 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000312 seconds.
+  path: Assets/Old Sea Port/EffectExamples/FireExplosionEffects/Materials/IgnitionFlameParticle.mat
+  artifactKey: Guid(f53f1a24bb4ef8f4d879ea7b3a5197e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/EffectExamples/FireExplosionEffects/Materials/IgnitionFlameParticle.mat using Guid(f53f1a24bb4ef8f4d879ea7b3a5197e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dbdaf6359ebeda11583989c2cf4eaf00') in 0.047729 seconds 
+  Import took 0.054920 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Assets/Old Sea Port/EffectExamples/FireExplosionEffects/Materials/PlasmaFireParticle.mat
+  artifactKey: Guid(b5387d3c2ba98fc44a0f5744f94ce48c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/EffectExamples/FireExplosionEffects/Materials/PlasmaFireParticle.mat using Guid(b5387d3c2ba98fc44a0f5744f94ce48c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a9c2f98211a7a02cdc44ec07a9828bf') in 0.071657 seconds 
+  Import took 0.079562 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000307 seconds.
+  path: Assets/Old Sea Port/EffectExamples/FireExplosionEffects/Materials/LightningParticle.mat
+  artifactKey: Guid(123ac6dc79004e54b8b352a7e64acdca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/EffectExamples/FireExplosionEffects/Materials/LightningParticle.mat using Guid(123ac6dc79004e54b8b352a7e64acdca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd103cc04536074c94faaa9a1c74e0803') in 0.098429 seconds 
+  Import took 0.108536 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000354 seconds.
+  path: Assets/Old Sea Port/EffectExamples/FireExplosionEffects/Materials/FlameParticle.mat
+  artifactKey: Guid(bd8c234372a08af408b82538314378fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/EffectExamples/FireExplosionEffects/Materials/FlameParticle.mat using Guid(bd8c234372a08af408b82538314378fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c78d76dbf982bd393434307e57c2beb4') in 0.098565 seconds 
+  Import took 0.112940 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000297 seconds.
+  path: Assets/Old Sea Port/EffectExamples/FireExplosionEffects/Materials/ShockWaveParticle.mat
+  artifactKey: Guid(f88239865da4c79468e051ceb78c0317) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/EffectExamples/FireExplosionEffects/Materials/ShockWaveParticle.mat using Guid(f88239865da4c79468e051ceb78c0317) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6def4ef1c8f410f53c9d611a868b55f') in 0.033149 seconds 
+  Import took 0.041535 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.815991 seconds.
+  path: Assets/Old Sea Port/EffectExamples/FireExplosionEffects/Textures/DebrisParticleSheet.png
+  artifactKey: Guid(af1f1b45fa6b5e64894c04ceb8a592f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/EffectExamples/FireExplosionEffects/Textures/DebrisParticleSheet.png using Guid(af1f1b45fa6b5e64894c04ceb8a592f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83d7d73f019eda1289a73e30f1e0b423') in 0.184330 seconds 
+  Import took 0.194057 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/Old Sea Port/EffectExamples/FireExplosionEffects/Textures/SmokePuffNormalSheet.tif
+  artifactKey: Guid(3bc01580ce4f1834eb3562397607f51d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/EffectExamples/FireExplosionEffects/Textures/SmokePuffNormalSheet.tif using Guid(3bc01580ce4f1834eb3562397607f51d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d6bee789d254b51539201084e484f9e') in 0.135906 seconds 
+  Import took 0.144607 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/Old Sea Port/EffectExamples/FireExplosionEffects/Textures/FlameRoundParticleSheet.tif
+  artifactKey: Guid(408718fd5f763de42b12f849570ddf58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/EffectExamples/FireExplosionEffects/Textures/FlameRoundParticleSheet.tif using Guid(408718fd5f763de42b12f849570ddf58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17960127f5a33439c2a54c44a122e304') in 0.093853 seconds 
+  Import took 0.101814 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000285 seconds.
+  path: Assets/Old Sea Port/EffectExamples/FireExplosionEffects/Textures/FlameRoundGreyParticleSheet.tif
+  artifactKey: Guid(aa0907451008d784b8ef5b1c0900465d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/EffectExamples/FireExplosionEffects/Textures/FlameRoundGreyParticleSheet.tif using Guid(aa0907451008d784b8ef5b1c0900465d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6797a772475f2b24c103ec4d193a9d1') in 0.059879 seconds 
+  Import took 0.068986 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000386 seconds.
+  path: Assets/Old Sea Port/EffectExamples/FireExplosionEffects/Textures/LightningParticle.tif
+  artifactKey: Guid(06e4a78c75e10c145a9156e32089ec9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/EffectExamples/FireExplosionEffects/Textures/LightningParticle.tif using Guid(06e4a78c75e10c145a9156e32089ec9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c0f340f7afc0bb0ef9823a4a05fa3b3') in 0.021569 seconds 
+  Import took 0.032400 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000547 seconds.
+  path: Assets/Old Sea Port/EffectExamples/FireExplosionEffects/Textures/FlameParticleSheet.tif
+  artifactKey: Guid(838696ee09635f647b630a61fac71a72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/EffectExamples/FireExplosionEffects/Textures/FlameParticleSheet.tif using Guid(838696ee09635f647b630a61fac71a72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '385be5f1d6f6dfbbc4bc03b15ad7b1f7') in 0.067597 seconds 
+  Import took 0.077514 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000308 seconds.
+  path: Assets/Old Sea Port/EffectExamples/FireExplosionEffects/Textures/RoundSoftParticle.tif
+  artifactKey: Guid(82c211cd7b28abb4a9e4ee77e8bd1b03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/EffectExamples/FireExplosionEffects/Textures/RoundSoftParticle.tif using Guid(82c211cd7b28abb4a9e4ee77e8bd1b03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c2751d2fe361fb65cbefcec353c8dd8') in 0.081548 seconds 
+  Import took 0.091989 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000400 seconds.
+  path: Assets/Old Sea Port/EffectExamples/FireExplosionEffects/Textures/SmokePuffParticleSheet.png
+  artifactKey: Guid(d3c9883e2f0eef44f9241b6f8428f9fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/EffectExamples/FireExplosionEffects/Textures/SmokePuffParticleSheet.png using Guid(d3c9883e2f0eef44f9241b6f8428f9fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d56bc7e458468cf8107ece049643ef4') in 0.094175 seconds 
+  Import took 0.102215 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000305 seconds.
+  path: Assets/Old Sea Port/EffectExamples/FireExplosionEffects/Textures/SmokePuff02ParticleSheet.tif
+  artifactKey: Guid(26e206bd730800f4f82b828eb9f1c067) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old Sea Port/EffectExamples/FireExplosionEffects/Textures/SmokePuff02ParticleSheet.tif using Guid(26e206bd730800f4f82b828eb9f1c067) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0b6ae48a28ec7e4eadb86d21e451b70') in 0.072016 seconds 
+  Import took 0.079817 seconds .
+
